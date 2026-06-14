@@ -14,7 +14,7 @@ Wann und unter welchen Bedingungen passieren die meisten Verkehrsunfälle in Deu
 ## Power BI Dashboard
 ![Dashboard](dashboard.png)
 
-📥 [Dashboard herunterladen](Unfallatlas_Deutschland_2022.pbix)
+📥 📥 [Dashboard herunterladen](https://github.com/FerhatYasar1/unfallatlas-deutschland-analyse/raw/main/Unfallatlas_Deutschland_2022.pbix)
 
 ## 🛠️ Tools & Technologien
 - Python (Pandas, Matplotlib, Seaborn)
