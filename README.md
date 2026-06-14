@@ -11,6 +11,11 @@ Wann und unter welchen Bedingungen passieren die meisten Verkehrsunfälle in Deu
 - Die gefährlichsten Stunden sind **15:00 – 17:00 Uhr** (Berufsverkehr)
 - Nachts zwischen 0:00 – 5:00 Uhr passieren die wenigsten Unfälle
 
+## Power BI Dashboard
+![Dashboard](dashboard.png)
+
+📥 [Dashboard herunterladen](Unfallatlas_Deutschland_2022.pbix)
+
 ## 🛠️ Tools & Technologien
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
