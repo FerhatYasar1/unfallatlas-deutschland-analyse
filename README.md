@@ -21,6 +21,12 @@ Wann und unter welchen Bedingungen passieren die meisten Verkehrsunfälle in Deu
 - Jupyter Notebook
 - VS Code
 
+## QGIS Heatmap – Unfallschwerpunkte Deutschland
+![Heatmap](unfallschwerpunkte_deutschland.png)
+
+Visualisierung der 256.492 Unfallstandorte als Heatmap mit OpenStreetMap als Hintergrund.
+Erstellt mit QGIS 3.44.
+
 ## 📁 Dateien
 - `analyse.ipynb` – Komplette Analyse mit Code und Visualisierungen
 - `unfaelle_wochentag.png` – Unfälle nach Wochentag
